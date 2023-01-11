@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "8LNR7orej37XBbIKzaNzYy80hPQDseYFg6I2klO8KsV583Vf0bObd18AdLsOBI2DKMQrnoKKRPb4/gN6LSCjXQ==",
+  "dgSpecHash": "KGq6eL+UkbPMWLt23JWzgOJCKPvbE6AG/9uxdaT5z1xjGP0Bd10CEW4zLLlV89C5nrui70Fy51o3ajiqM1UAjw==",
   "success": true,
   "projectFilePath": "C:\\Sara\\wwwroot\\BookStore\\src\\BookStore.API\\BookStore.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sara.atlas\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\sara.atlas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\sara.atlas\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\sara.atlas\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\sara.atlas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sara.atlas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\sara.atlas\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\sara.atlas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\sara.atlas\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\sara.atlas\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\sara.atlas\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",

@@ -1,5 +1,9 @@
+using BookStore.API.Configuration;
 using BookStore.Infrastructure.Context;
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,8 +16,13 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-var app = builder.Build();
+builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.ResolveDependencies();
 
+builder.Services.AddCors();
+
+var app = builder.Build();
+app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

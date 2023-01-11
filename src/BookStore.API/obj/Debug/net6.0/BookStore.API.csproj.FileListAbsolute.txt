@@ -89,3 +89,5 @@ C:\Sara\wwwroot\BookStore\src\BookStore.API\obj\Debug\net6.0\refint\BookStore.AP
 C:\Sara\wwwroot\BookStore\src\BookStore.API\obj\Debug\net6.0\BookStore.API.pdb
 C:\Sara\wwwroot\BookStore\src\BookStore.API\obj\Debug\net6.0\BookStore.API.genruntimeconfig.cache
 C:\Sara\wwwroot\BookStore\src\BookStore.API\obj\Debug\net6.0\ref\BookStore.API.dll
+C:\Sara\wwwroot\BookStore\src\BookStore.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Sara\wwwroot\BookStore\src\BookStore.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
