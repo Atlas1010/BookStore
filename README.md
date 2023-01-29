@@ -1,4 +1,4 @@
-# Sara Atlas
+# Sarah Atlas
 
 
 ## Technologies:
